@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.0](https://github.com/karimknaebel/turm/compare/v0.13.1...v0.14.0) (2026-03-04)
+
+
+### Features
+
+* add signal picker for cancel action ([9562037](https://github.com/karimknaebel/turm/commit/9562037b72749a4c753de41d6d4dc0c1e49f52d9))
+
 ## [0.13.1](https://github.com/karimknaebel/turm/compare/v0.13.0...v0.13.1) (2026-03-03)
 
 
